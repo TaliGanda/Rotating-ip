@@ -77,11 +77,11 @@ go version
 ## 1. Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone [https://github.com/TaliGanda/Rotating-ip.git]
+cd Rotating-ip
 ```
 
-Replace `YOUR_USERNAME/YOUR_REPOSITORY` with your actual GitHub repository.
+Replace `root/Rotating-ip` with your actual GitHub repository.
 
 ---
 
@@ -280,7 +280,12 @@ The scraper talks only to the local Go proxy. The Go service decides which upstr
 
 ---
 
-# Before & After
+# Before 
+<p align="center">
+  <img src="photo_2026-09-08_12-34-08.jpg" width="700" />
+</p>
+
+& After
 
 ## Before: Direct Connection
 
