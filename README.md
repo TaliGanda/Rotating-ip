@@ -306,11 +306,10 @@ All requests originate from the same outbound IP.
 
 ### Screenshot
 
-`Rotating-ip/photo_2026-09-08_12-34-08.jpg`
+`photo_2026-09-08_12-34-08.jpg`
 
-```text
 ![Before - Direct Connection](photo_2026-09-08_12-34-08.jpg)
-```
+
 
 ---
 
@@ -340,11 +339,10 @@ Request #4 → Proxy A → IP A
 
 ### Screenshot
 
-`Rotating-ip/photo_2026-09-08_12-34-01.jpg`
+`photo_2026-09-08_12-34-01.jpg`
 
-```text
+
 ![After - Rotating Proxy](photo_2026-09-08_12-34-01.jpg)
-```
 
 > The actual before/after screenshots in this README should show the outbound IP observed by the destination test endpoint.
 
