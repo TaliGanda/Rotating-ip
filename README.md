@@ -77,7 +77,7 @@ go version
 ## 1. Clone repository
 
 ```bash
-git clone [https://github.com/TaliGanda/Rotating-ip.git]
+git clone https://github.com/TaliGanda/Rotating-ip.git
 cd Rotating-ip
 ```
 
