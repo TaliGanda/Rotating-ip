@@ -306,10 +306,10 @@ All requests originate from the same outbound IP.
 
 ### Screenshot
 
-`docs/before.png`
+`Rotating-ip/photo_2026-09-08_12-34-08.jpg`
 
 ```text
-![Before - Direct Connection](docs/before.png)
+![Before - Direct Connection](photo_2026-09-08_12-34-08.jpg)
 ```
 
 ---
@@ -340,10 +340,10 @@ Request #4 → Proxy A → IP A
 
 ### Screenshot
 
-`docs/after.png`
+`Rotating-ip/photo_2026-09-08_12-34-01.jpg`
 
 ```text
-![After - Rotating Proxy](docs/after.png)
+![After - Rotating Proxy](photo_2026-09-08_12-34-01.jpg)
 ```
 
 > The actual before/after screenshots in this README should show the outbound IP observed by the destination test endpoint.
@@ -355,9 +355,9 @@ Request #4 → Proxy A → IP A
 For the GitHub README, place the images here:
 
 ```text
-docs/
-├── before.png
-└── after.png
+Rotating-ip/
+├── photo_2026-09-08_12-34-01.jpg.png
+└── photo_2026-09-08_12-34-08.jpg.png
 ```
 
 Then the README will display:
