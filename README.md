@@ -280,12 +280,7 @@ The scraper talks only to the local Go proxy. The Go service decides which upstr
 
 ---
 
-# Before 
-<p align="center">
-  <img src="photo_2026-09-08_12-34-08.jpg" width="700" />
-</p>
-
-& After
+# Before & After
 
 ## Before: Direct Connection
 
@@ -369,11 +364,11 @@ Then the README will display:
 
 ### Before
 
-![Before - Direct Connection](docs/before.png)
+![Before - Direct Connection](photo_2026-09-08_12-34-08.jpg)
 
 ### After
 
-![After - Rotating Proxy](docs/after.png)
+![After - Rotating Proxy](photo_2026-09-08_12-34-01.jpg)
 
 A useful comparison is to show the IP returned by an IP-check endpoint before using the proxy and after enabling the rotating proxy.
 
