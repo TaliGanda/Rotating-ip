@@ -649,21 +649,6 @@ rotating-proxy/
 ├── go.sum
 ├── README.md
 ├── .gitignore
-└── docs/
-    ├── before.png
-    └── after.png
+├── photo_2026-09-08_12-34-08.jpg.png
+└── photo_2026-09-08_12-34-01.jpg.png
 ```
-
----
-
-# License
-
-Choose a license appropriate for your project.
-
-For example:
-
-```text
-MIT License
-```
-
-See `LICENSE` for the full license text.
